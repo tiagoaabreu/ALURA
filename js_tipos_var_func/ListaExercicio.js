@@ -49,3 +49,33 @@ usuario === admin && logado
 
 
 */
+/*
+
+EXERCICIO NUMERO 4 DA AULA 04 DE JAVASCRIPT
+
+let var1 = false;
+let var2 = false;
+
+if (var1 || var2 === true) {
+  console.log(
+    `var1 é ${var1} e var2 é ${var2}, logo, um dos dois é verdadeiro`,
+  );
+} else {
+  console.log(
+    `var1 é ${var1} e var2 é ${var2}, logo, nenhum dos dois é verdadeiro`,
+  );
+}
+*/
+
+/*  
+EXERCICIO NUMERO 5
+let Usuario = 16;
+
+let idadeMinima = 18;
+
+if (Usuario >= idadeMinima) {
+  console.log("Usuario pode comprar ingresso");
+} else {
+  console.log("Usuario não pode comprar ingresso");
+}
+*/
