@@ -17,3 +17,8 @@ console.log(
 */
 //EXERCICIO NUMERO 2 DA AULA 04 DE JAVASCRIPT
 
+let numero = 3;
+
+let resultado = numero % 2 === 0 ? "numero é par" : "numero é ímpar";
+
+console.log(resultado);
