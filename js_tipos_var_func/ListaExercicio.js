@@ -67,7 +67,7 @@ if (var1 || var2 === true) {
 }
 */
 
-/*  
+/*
 EXERCICIO NUMERO 5
 let Usuario = 16;
 
