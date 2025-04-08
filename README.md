@@ -8,4 +8,4 @@ Cada pasta neste repositório corresponde a um curso específico. Dentro de cada
 
 Ao final de cada curso, recebo um certificado de conclusão. Você pode conferir todos eles no link abaixo:
 
-🔗 Acesse meus certificados aqui
+🔗 <a href="https://cursos.alura.com.br/user/tiagoabreudev/course/javascript-utilizando-tipos-variaveis-funcoes/certificate">Acesse meus certificados aqui
