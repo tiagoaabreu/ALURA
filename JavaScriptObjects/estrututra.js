@@ -4,3 +4,5 @@ const objPessoa = {
     cpf : '123.456.789-00',
     turma: 'javascript'
 }
+
+console.log(objPessoa.cpf);
