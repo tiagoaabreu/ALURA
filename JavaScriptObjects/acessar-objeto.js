@@ -11,3 +11,4 @@ function exibeInfoEstudante(objEstudante, infoEstudante) {
 
 console.log(exibeInfoEstudante(objPessoa, "cpf"));
 console.log(exibeInfoEstudante(objPessoa, "nome"));
+
